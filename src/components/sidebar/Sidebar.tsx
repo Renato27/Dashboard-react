@@ -1,5 +1,5 @@
 import "./Sidebar.css";
-import logo from "../../assets/logo.jpeg";
+import logo from "../../assets/logo.png";
 import React from 'react';
 
 const Sidebar = ({ sidebarOpen, closeSidebar }: any) => {
